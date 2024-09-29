@@ -9,7 +9,7 @@
 - 🏛️At the moment, I am a computer science student in https://lpnu.ua/  
   
 
-- 🌱 Except java, I am interested in machine learning and data science.  
+- 🌱 Except java, I am interested in networks and Linux.
   
 
 - 🎵In my free time I listen to music and play the guitar(you can ask me a lot about the history of music)👾  
