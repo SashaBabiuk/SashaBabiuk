@@ -54,28 +54,3 @@
 </div>  
 
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SashaBabiuk&theme=onestar&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</div>
-
----
-
-## 📈 GitHub Activity Graph  
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=SashaBabiuk&bg_color=ffffff&color=000000&line=000000&point=ff0000&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🗣️ Top Languages  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashaBabiuk&langs_count=5&layout=compact&hide=html&theme=solarized_dark" alt="Top Langs" />
-</div>
-
----
-
-## 📝 GitHub Repos per Language  
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SashaBabiuk&theme=solarized_dark" />
-</div>
