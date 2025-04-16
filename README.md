@@ -63,7 +63,7 @@
 
 ## 📈 GitHub Activity Graph  
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SashaBabiuk&theme=solarized-dark" alt="Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=SashaBabiuk&bg_color=ffffff&color=000000&line=000000&point=ff0000&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -75,25 +75,7 @@
 
 ---
 
-## 📬 Contact via Email  
-<div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
----
-
 ## 📝 GitHub Repos per Language  
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SashaBabiuk&theme=solarized_dark" />
-</div>
-
----
-
-## 🧩 Featured Projects  
-<div align="center">
-  <a href="https://github.com/SashaBabiuk/your-project">
-    <img src="https://img.shields.io/badge/-Project%20Name-%23000?style=flat&logo=github&logoColor=white" alt="Your Project" />
-  </a>
 </div>
