@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/SashaBabiuk/SashaBabiuk/blob/main/8CN.gif" style="width: 100%" />
 </div>  
-
 ---
 
 ### <div align="center">Hi, I'm Oleksandr, Java backend developer 🐧</div>  
